@@ -1,0 +1,9 @@
+c:\users\t.b.laptop\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.exe.config
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.exe
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\bin\Debug\socket.pdb
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.client.resources
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.Properties.Resources.resources
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.csproj.GenerateResource.Cache
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.exe
+C:\Users\T.B.Laptop\documents\visual studio 2015\Projects\socket\socket\obj\Debug\socket.pdb
